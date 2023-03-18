@@ -1,4 +1,4 @@
-# AnalogClock
+# Lego_NXT-Analog_Clock
 Firmware for implementing display functions and displaying an Analog clock for Mindstorms NXT .
 Used PIT timer, AIC interrupts, SSC-PIO for sound, SPI-PIO for controlling the LCD chip.
 NXT uses Atmel® 32-bit ARM® processor, AT91SAM7S256.
